@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!-- 新 Bootstrap 核心 CSS 文件 -->
+    <script src="https://unpkg.com/react@16/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
+    <!-- 生产环境中不建议使用 -->
+    <script src="https://unpkg.com/babel-standalone@6.15.0/babel.min.js"></script>
+    <script src="https://cdn.bootcss.com/pubsub-js/1.7.0/pubsub.js"></script>
+
+
+    <!--<script type="text/babel" src="./home/navi/navi.js"></script>-->
+    <!--<script type="text/babel" src="home/bottom/bottom.js"></script>-->
+    <!--<script type="text/babel" src="home/content/content.js"></script>-->
+    <script type="text/babel" src="home/AppContent.js"></script>
+
+</head>
+<body>
+<div id="home"></div>
+<script type="text/babel">
+    function dynamicLoadCss(url) {
+        var head = document.getElementsByTagName('head')[0];
+        var link = document.createElement('link');
+        link.type='text/css';
+        link.rel = 'stylesheet';
+        link.href = url;
+        head.appendChild(link);
+    }
+    /**
+     * 动态加载JS
+     * @param {string} url 脚本地址
+     * @param {function} callback  回调函数
+     */
+    function dynamicLoadJs(url, callback) {
+        var head = document.getElementsByTagName('head')[0];
+        var script = document.createElement('script');
+        script.type = 'text/javascript';
+        script.src = url;
+        if(typeof(callback)=='function'){
+            script.onload = script.onreadystatechange = function () {
+                if (!this.readyState || this.readyState === "loaded" || this.readyState === "complete"){
+                    callback();
+                    script.onload = script.onreadystatechange = null;
+                }
+            };
+        }
+        head.appendChild(script);
+    }
+    function App() {
+        return (
+                <div>
+                    <AppContent />
+
+                </div>
+        );
+    }
+//    Bottom.defaultProps = {
+    //        name: 'areabottom'
+    //    };
+
+    ReactDOM.render(
+            <App />,
+        document.getElementById('home')
+    );
+</script>
+
+</body>
+</html>
