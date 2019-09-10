@@ -1,13 +1,15 @@
 
+
+
 class Content extends React.Component {
     constructor(props) {
         super(props);
         this.state = {event: ""};
+        //dynamicLoadJs('./home/content/content_lv_sect.js');
     }
 
     componentDidMount() {
         PubSub.subscribe('EVENT', (msg, param) => {
-
 
             this.setState({
                 event: param
@@ -16,26 +18,34 @@ class Content extends React.Component {
     }
 
 
+
+
     render() {
-      //  dynamicLoadCss('./home/content/css/content.css');
+       // dynamicLoadCss('./home/content/css/content.css');
+      //dynamicLoadJs('./home/content/content_lv_sect.js');
+
+        //const component = require('./home/content/ContentLvSect')
+        // const component = require('./home/content/ContentLvSect')
 
         const event = this.state.event
-        switch (event) {
-            case 'eventchange':
-                return
-                <div >
-                <h1>content   has change</h1>
-                </div>
-                    ;
-            default:
 
-                return                     <div  >
+          if(event=='222'){
+              return                     <div  >
 
-                <h1>{event}</h1>
-                </div>
-                    ;
-                break;
-        }
+
+                  <ContentLvSect/>
+              </div>
+                  ;
+          } else{
+              return                     <div  >
+
+                          <h1>{event}</h1>
+                         </div>
+                        ;
+
+          }
+
+
 
     }
 }

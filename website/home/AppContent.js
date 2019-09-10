@@ -1,3 +1,4 @@
+
 class AppContent extends React.Component {
 
     constructor(props) {
@@ -19,30 +20,19 @@ class AppContent extends React.Component {
     }
 
 
+
     render() {
-        dynamicLoadJs('./home/navi/navi.js',null);
-        // dynamicLoadJs('./home/bottom/bottom.js');
-        // dynamicLoadJs('./home/content/content.js');
+
         return (
             <div>
                 <Navi />
-
-
-                {/*<Content    />*/}
-                {/*<Bottom />*/}
+                <Content    />
+                <Bottom />
 
 
             </div>
         );
 
-        // return (
-        //     //
-        //     <div>
-        //         <h1>{this.props.name}</h1>
-        //         <h2>现在是</h2>
-        //     </div>
-        //
-        //
-        // );
+
     }
 }

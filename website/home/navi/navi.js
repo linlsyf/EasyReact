@@ -6,7 +6,6 @@
 
 
 
-
 class Navi extends React.Component {
 
     constructor(props) {
@@ -14,10 +13,10 @@ class Navi extends React.Component {
 
         // 这边绑定是必要的，这样 `this` 才能在回调函数中使用
        this.handleClick = this.handleClick.bind(this);
+       //alert("nvai")
     }
 
     handleClick(name, e) {
-
 
         PubSub.publish('EVENT', name);
 
@@ -29,11 +28,6 @@ class Navi extends React.Component {
         dynamicLoadCss('./home/navi/css/reset.css');
 
         return (
-           //
-           // <a href="#"  onClick={this.handleClick} >
-           // 点我
-           // </a>
-
 
 
             <div class="index-nav">
@@ -136,6 +130,7 @@ class Navi extends React.Component {
                     </div>
                 </div>
             </div>
+
 
     );
     }
