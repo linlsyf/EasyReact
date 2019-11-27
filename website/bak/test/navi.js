@@ -4,31 +4,33 @@
 
 //require('./css/index.css');
 
+var React = require('react');
 
-
-class Navi extends React.Component {
+    class Navi extends React.Component {
 
     constructor(props) {
         super(props);
 
         // 这边绑定是必要的，这样 `this` 才能在回调函数中使用
-       this.handleClick = this.handleClick.bind(this);
+       // this.handleClick = this.handleClick.bind(this);
        //alert("nvai")
     }
 
     handleClick(name, e) {
 
-        PubSub.publish('EVENT', name);
+        // PubSub.publish('EVENT', name);
 
 
     }
 
     render() {
-        dynamicLoadCss('./home/navi/css/index.css');
-        dynamicLoadCss('./home/navi/css/reset.css');
+        // dynamicLoadCss('./home/navi/css/index.css');
+        // dynamicLoadCss('./home/navi/css/reset.css');
 
         return (
-           text
+
+            www  hello
+            // <div> text </div>
 
             // <div class="index-nav">
             //     <div class="index-nav-frame clearfix">
@@ -135,3 +137,4 @@ class Navi extends React.Component {
     );
     }
 }
+module.exports = Hello;

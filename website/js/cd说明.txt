@@ -1,9 +1,0 @@
-  d:
-
-
-    cd   D:\BaseServer\web\js
-
-
-
-
-    webpack runoob1.js   -o bundle.js
