@@ -1,10 +1,15 @@
-// /src/index.js
+
 import React from 'react';
 import ReactDom from 'react-dom';
+import { render } from 'react-dom'
+import { destComponent } from './testComponent.jsx'
+import TestComponent from './testComponent.jsx'
 
-
-// var React = require('Navi');
 ReactDom.render(
-<h1>Hello, React!</h1>,
+<TestComponent/>,
 document.getElementById('root')
 );
+
+// <TestComponent>Hello, test!</TestComponent>,
+// <a>Hello, world!</a>,
+
