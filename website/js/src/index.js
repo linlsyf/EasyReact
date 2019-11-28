@@ -2,11 +2,10 @@
 import React from 'react';
 import ReactDom from 'react-dom';
 import { render } from 'react-dom'
-import { destComponent } from './testComponent.jsx'
-import TestComponent from './testComponent.jsx'
+import Navi from './navi.jsx'
 
 ReactDom.render(
-<TestComponent/>,
+<Navi/>,
 document.getElementById('root')
 );
 
