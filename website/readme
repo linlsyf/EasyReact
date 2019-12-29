@@ -1,0 +1,4 @@
+cd  C:\EasyReact\website\js
+
+编译
+npm run build

@@ -2,10 +2,10 @@
 import React from 'react';
 import ReactDom from 'react-dom';
 import { render } from 'react-dom'
-import Navi from './navi.jsx'
+import Home from './home.jsx'
 
 ReactDom.render(
-<Navi/>,
+<Home/>,
 document.getElementById('root')
 );
 
