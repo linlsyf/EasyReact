@@ -14,7 +14,7 @@ class Navi extends React.Component {
     handleClick(name, e) {
            debugger;
             if (name=='link-seoncd'){
-                this.props.history.push("/indexSecond.html");
+                window.location.href = '/indexSecond.html'
             } else{
                 PubSub.publish('EVENT', name);
 

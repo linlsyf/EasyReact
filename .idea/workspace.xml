@@ -2,68 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f7ebb38-465a-49bc-8780-06ef8d375030" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/website/js/dist/img/a1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/dist/img/a2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/dist/img/a3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/dist/img/a4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/dist/img/a5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/dist/img/left_btn1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/dist/img/left_btn2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/dist/img/right_btn1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/dist/img/right_btn2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/dist/indexSecond.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/src/content/banner.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/src/content/banner/banner.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/src/content/banner/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/src/content/banner/images/a1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/src/content/banner/images/a2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/src/content/banner/images/a3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/src/content/banner/images/a4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/src/content/banner/images/a5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/src/content/banner/images/icons/left_btn1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/src/content/banner/images/icons/left_btn2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/src/content/banner/images/icons/right_btn1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/src/content/banner/images/icons/right_btn2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/src/content/banner/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/src/content/banner/js/banchange.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/src/content/banner/js/carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/src/content/banner/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/src/content/banner/www.jq22.com.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/src/content/content.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/src/content/content_home.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/src/content/contentone.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/src/foot.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/src/img/a1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/src/img/a2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/src/img/a3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/src/img/a4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/src/img/a5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/src/img/left_btn1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/src/img/left_btn2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/src/img/right_btn1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/src/img/right_btn2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/src/nav/navi.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/readme" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/bak/home/bottom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/bak/home/content/content.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/bak/home/navi/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/website/js/src/nav/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/bak/home/navi/css/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/website/js/src/nav/css/reset.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/bak/home/navi/img/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/website/js/dist/img/icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/bak/home/navi/navi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/home/content/content.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/home/content/content_lv_sect.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/home/navi/css/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/home/navi/css/reset.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/home/navi/img/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/website/js/src/img/icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/home/navi/navi.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/website/js/dist/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/website/js/dist/bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/js/dist/indexNew.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/js/dist/indexNew.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/js/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/website/js/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/js/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/website/js/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/js/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/website/js/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/js/src/navi.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/website/js/src/home.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/js/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/website/js/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/js/src/nav/navi.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/website/js/src/nav/navi.jsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +16,7 @@
     <session id="-1617467213">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.22" value="1" />
@@ -112,14 +53,14 @@
         <counts>
           <entry key="html" value="8" />
           <entry key="js" value="84" />
-          <entry key="jsx" value="745" />
+          <entry key="jsx" value="746" />
           <entry key="readme" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="8" />
-          <entry key="JSX Harmony" value="745" />
+          <entry key="JSX Harmony" value="746" />
           <entry key="JavaScript" value="84" />
           <entry key="PLAIN_TEXT" value="12" />
         </counts>
@@ -128,11 +69,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/website/js/src/nav/navi.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+            <state relative-caret-position="19">
+              <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -140,11 +81,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/website/js/dist/indexSecond.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -164,8 +105,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/website/js/dist/indexNew.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+            <state relative-caret-position="76">
+              <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -277,12 +218,6 @@
               <item name="EasyReact" type="b2602c69:ProjectViewProjectNode" />
               <item name="EasyReact" type="462c0819:PsiDirectoryNode" />
               <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="bak" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EasyReact" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EasyReact" type="462c0819:PsiDirectoryNode" />
-              <item name="website" type="462c0819:PsiDirectoryNode" />
               <item name="home" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -330,7 +265,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577625690473" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577855381563" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -422,15 +357,16 @@
       <workItem from="1576981092553" duration="591000" />
       <workItem from="1577517601180" duration="11000" />
       <workItem from="1577520023860" duration="8701000" />
-      <workItem from="1577594231009" duration="10502000" />
+      <workItem from="1577594231009" duration="11165000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39438000" />
+    <option name="totallyTimeSpent" value="40101000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29500756" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -705,13 +641,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/website/js/dist/indexNew.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/website/js/src/content/content.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -722,20 +651,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/website/js/dist/indexSecond.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/website/js/src/nav/navi.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+        <state relative-caret-position="19">
+          <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/js/dist/indexNew.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/js/dist/indexSecond.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
         </state>
       </provider>
     </entry>
